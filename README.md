@@ -19,7 +19,7 @@ const {create} = require("frameover");
 
 window.onload = async () => {
     // takes in an optional background color in any CSS format [if you end up using it, I'd recommend a shade of gray]
-    const frame = await require("frameover").create("rgba(0,0,0,0.5)");
+    const frame = await create("rgba(0,0,0,0.5)");
 
     // do stuff in your frame
     frame.document.innerHTML = "";
