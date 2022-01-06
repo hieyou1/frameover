@@ -1,0 +1,18 @@
+{
+    "name": "frameover",
+    "version": "1.0.0",
+    "description": "For when you need a frame over!",
+    "main": "frameover.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "iframe",
+        "frameover",
+        "extension",
+        "webextension",
+        "chromeextension"
+    ],
+    "author": "hieyou1",
+    "license": "MIT"
+}
